@@ -1,6 +1,6 @@
 <!-- <img src="https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif" width="900"> -->
 <!-- <img src="https://media1.tenor.com/m/Jat0oxpwUIcAAAAd/fruits-basket-furuba.gif" width="900"> -->
-<img src="https://media.tenor.com/XVeWrANiP28AAAAd/star-rail-honkai.gif" width="900">
+<img src="https://media.tenor.com/qDMumw7jgFUAAAAC/aventurine-aventurine-hsr.gif" width="900">
 
 </div>
 
